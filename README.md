@@ -34,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div><br>
 
 <p>
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
+<img height="200px" width="98%" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
 <img height="200px" width="102%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
 </p>
 
