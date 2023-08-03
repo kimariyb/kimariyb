@@ -25,15 +25,12 @@
 
   <!--my introduction end -->
   
-<table border="0">
-<tr>
-<td><img height="200px" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
-</td>
-<td>
+<div style="display:inline-block;">
+<img height="200px" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
 <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
-</td>
-</tr>
-</table>
+</div>
+
+
   
 [Python]:https://img.shields.io/badge/Python-black?style=flat-square&logo=python
 [Shell]:https://img.shields.io/badge/Shell-black?style=flat-square&logo=shell
