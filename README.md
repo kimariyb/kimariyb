@@ -24,14 +24,7 @@
   ✨ I am doing postgraduate study in **Xiamen University** and studying Machine Learning in ***Radio Physics***。
 
   <!--my introduction end -->
-
 <br>
-
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,vscode,mysql,linux,java,nodejs,idea,py,git,github" /><br>
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div><br>
 
 <table border="0">
 <tr>
@@ -42,6 +35,18 @@
 </td>
 </tr>
 </table>
+
+<br>
+<hr>
+<br>
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,vscode,mysql,linux,java,nodejs,idea,py,git,github" /><br>
+
+<!-- just img 图片 -->
+<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div><br>
+
+
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/f44dad247072970a4d5e8ece8e31bca20b8c366c.svg" />
 
