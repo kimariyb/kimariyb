@@ -9,6 +9,26 @@
 
   <!--my introduction end -->
 
+<p align="center">
+<strong>Check out my work below!</strong>
+<br><br>
+<a href="https://github.com/kimariyb">
+  <img src="https://badges.strrl.dev/visits/kimariyb/kimariyb?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/kimariyb">
+  <img src="https://badges.strrl.dev/years/kimariyb?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/kimariyb?tab=repositories">
+  <img src="https://badges.strrl.dev/repos/kimariyb?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://gist.github.com/kimariyb">
+  <img src="https://badges.strrl.dev/gists/kimariyb?style=flat-square&color=black&logo=github">
+</a>
+<a href="https://github.com/kimariyb">
+  <img src="https://badges.strrl.dev/commits/monthly/kimariyb?style=flat-square&color=black&logo=github">
+</a>
+</p>
+
 <br>
 
 <p align="center">
@@ -20,25 +40,7 @@
   </a>
 </p>
 
-<p align="center">
-  <strong>Check out my work below!</strong>
-  <br><br>
-  <a href="https://github.com/kimariyb">
-    <img src="https://badges.strrl.dev/visits/kimariyb/kimariyb?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/kimariyb">
-    <img src="https://badges.strrl.dev/years/kimariyb?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/kimariyb?tab=repositories">
-    <img src="https://badges.strrl.dev/repos/kimariyb?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://gist.github.com/kimariyb">
-    <img src="https://badges.strrl.dev/gists/kimariyb?style=flat-square&color=black&logo=github">
-  </a>
-  <a href="https://github.com/kimariyb">
-    <img src="https://badges.strrl.dev/commits/monthly/kimariyb?style=flat-square&color=black&logo=github">
-  </a>
-</p>
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
