@@ -1,16 +1,22 @@
-### Hi there 👋
+<a href="https://github.com/kimariyb">
+    <img align="right" src="https://komarev.com/ghpvc/?username=kimariyb&label=Visitors&color=red&style=flat&logo=github" alt="gtihub-visitors"/>
+</a>
 
-<!--
-**kimariyb/kimariyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, 👋  I'm <a href="https://ikuns.icu/" target="_blank">Ryan Hsiun (Kimariyb)</a> 
 
-Here are some ideas to get you started:
+  ✨ My nickname is kimariyb and I graduated from **Jiangxi University of Science and Technology** with a major in ***Software Engineering***. 
+  ✨ I am doing postgraduate study in **Xiamen University** and studying Machine Learning in ***Radio Physics***。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <!--my introduction end -->
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/kimariyb" class="rich-diff-level-one">
+    <img src="https://github-readme-stats.vercel.app/api?username=kimariyb&title_color=333&text_color=777" alt="kimariyb's Stats" >
+    <!-- &hide=issues
+    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
+    -->
+  </a>
+</p>
+
