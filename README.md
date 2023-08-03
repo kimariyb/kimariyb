@@ -25,9 +25,9 @@
 
   <!--my introduction end -->
   
-<div style="display:inline-block;">
-<img height="200px" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
-<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
+<div style="display: flex; flex-wrap: nowrap; justify-content: space-between;">
+<img style="flex: 1; max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
+<img style="flex: 1; max-width: 100%; height: auto;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
 </div>
 
 
