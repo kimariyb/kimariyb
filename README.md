@@ -27,7 +27,12 @@
 
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&theme=radical)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=kimariyb\&rank_icon=github">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
+</p>
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut)](https://github.com/kimariyb/github-readme-stats)
 
