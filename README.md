@@ -35,10 +35,10 @@
 
 <table>
 <tr>
-<td><img height="200px"src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
+<td><img height="200px" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
 </td>
 <td>
-<img height="200px" width="250px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
+<img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
 </td>
 </tr>
 </table>
