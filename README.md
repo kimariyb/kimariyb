@@ -25,6 +25,10 @@
 
   <!--my introduction end -->
   
+[Python]:https://img.shields.io/badge/Python-black?style=flat-square&logo=python
+[Shell]:https://img.shields.io/badge/Shell-black?style=flat-square&logo=shell
+[Matplotlib]:https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=Matplotlib
+  
 | Title | Description | Stars | Technologies |
 |--|--|--|--|
 | [EasyShermo](https://github.com/kimariyb/easy-shermo) | <sub> A fully automated Python script for using Shermo developed by Kimariyb </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/easy-shermo?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] |
