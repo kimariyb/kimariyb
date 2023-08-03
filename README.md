@@ -33,7 +33,7 @@
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div><br>
 
-<table frame=void>
+<table border="0">
 <tr>
 <td><img height="200px" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
 </td>
