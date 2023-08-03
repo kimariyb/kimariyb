@@ -19,11 +19,13 @@
 </a>
 
 
-<!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,vscode,mysql,linux,java,nodejs,idea,py,git,github" /><br>
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div><br>
+
+
+<!-- programming tool icon 编程工具图标 -->
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,vscode,mysql,linux,java,nodejs,idea,py,git,github" /><br>
 
 
 ## Hi, 👋  I'm <a href="https://ikuns.icu/" target="_blank">Ryan Hsiun (Kimariyb)</a> 
