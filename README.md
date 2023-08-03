@@ -28,14 +28,14 @@
 <br>
 
 <!-- programming tool icon 编程工具图标 -->
-<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,vscode,mysql,linux,java,nodejs,idea,py,git" /><br>
+<img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,vscode,mysql,linux,java,nodejs,idea,py,git,github" /><br>
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/icon.png" /></div>
 
 <p>
 <img height="200px" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
-<img height="200px" width="120%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
+<img height="200px" width="110%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
 </p>
 
 
