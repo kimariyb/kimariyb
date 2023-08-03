@@ -27,17 +27,14 @@
 
 <br>
 
-<p align="center">
-  <a href="https://github.com/kimariyb" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=kimariyb&title_color=333&text_color=777" alt="kimariyb's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
-  </a>
-</p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut)](https://github.com/kimariyb/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 
 
