@@ -36,9 +36,7 @@
 </tr>
 </table>
 
-<br>
-<hr>
-<br>
+<h2></h2>
 
 <!-- programming tool icon 编程工具图标 -->
 <img src="https://skillicons.dev/icons?i=ps,ai,pr,c,cpp,cs,vscode,mysql,linux,java,nodejs,idea,py,git,github" /><br>
