@@ -57,7 +57,7 @@
 
 
 
-<img width="120%" src="https://repobeats.axiom.co/api/embed/f44dad247072970a4d5e8ece8e31bca20b8c366c.svg" />
+<img width="120%" src="https://repobeats.axiom.co/api/embed/a41c0d762937e4ec3dddfa0c85945f515995811a.svg" />
 
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/rocket.png"/>
