@@ -44,16 +44,14 @@
 [Python]:https://img.shields.io/badge/Python-black?style=flat-square&logo=python
 [Go]:https://img.shields.io/badge/Go-black?style=flat-square&logo=go
 [Shell]:https://img.shields.io/badge/Shell-black?style=flat-square&logo=shell
-[Shermo]:https://img.shields.io/badge/Shermo-black?style=flat-square&logo=shermo
-[Matplotlib]:https://img.shields.io/badge/Matplotlib-black?style=flat-square&logo=matplotlib
 
 ### 🖥️ Open-Source Projects &emsp; 
   
 | Title | Description | Stars | Technologies |
 |--|--|--|--|
-| [EasyShermo](https://github.com/kimariyb/easy-shermo) | <sub> A fully automated Python script for using Shermo developed by Kimariyb. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/easy-shermo?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] ![Shermo][Shermo] ![Go][Go]|
-| [KimariDraw](https://github.com/kimariyb/kimariDraw) | <sub> A fully automated Python script for plotting software based on Python. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariDraw?style=flat-square&labelColor=black"/> | ![Python][Python] ![Matplotlib][Matplotlib] ![Shell][Shell] |
-| [KimariPlot](https://github.com/kimariyb/kimariPlot) | <sub> A fully automated Python script for plotting software developed in Python. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariPlot?style=flat-square&labelColor=black"/> | ![Python][Python] ![Matplotlib][Matplotlib] ![Shell][Shell] |                                                                             
+| [EasyShermo](https://github.com/kimariyb/easy-shermo) | <sub> A fully automated Python script for using Shermo developed by Kimariyb. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/easy-shermo?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] ![Go][Go]|
+| [KimariDraw](https://github.com/kimariyb/kimariDraw) | <sub> A fully automated Python script for plotting software based on Python. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariDraw?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] |
+| [KimariPlot](https://github.com/kimariyb/kimariPlot) | <sub> A fully automated Python script for plotting software developed in Python. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariPlot?style=flat-square&labelColor=black"/> | ![Python][Python]  ![Shell][Shell] |                                                                             
 
 
 
