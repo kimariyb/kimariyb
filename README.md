@@ -52,7 +52,7 @@
 | [EasyShermo](https://github.com/kimariyb/easy-shermo) | <sub> A fully automated Python script for using Shermo developed by Kimariyb. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/easy-shermo?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] ![Go][Go]|
 | [KimariDraw](https://github.com/kimariyb/kimariDraw) | <sub> A fully automated Python script for plotting software based on Python. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariDraw?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] |
 | [KimariPlot](https://github.com/kimariyb/kimariPlot) | <sub> A fully automated Python script for plotting software developed in Python. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariPlot?style=flat-square&labelColor=black"/> | ![Python][Python]  ![Shell][Shell] |    
-| [pySubplot](https://github.com/kimariyb/py-subplots) | <sub> A python script for plotting multiple subplots. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariPlot?style=flat-square&labelColor=black"/> | ![Python][Python]  ![Shell][Shell] |                                                                           
+| [pySubplot](https://github.com/kimariyb/py-subplots) | <sub> A  fully automated Python script for plotting multiple subplots. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariPlot?style=flat-square&labelColor=black"/> | ![Python][Python]  ![Shell][Shell] |                                                                           
 
 
 
