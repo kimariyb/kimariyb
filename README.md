@@ -53,7 +53,7 @@
 | [KimariDraw](https://github.com/kimariyb/kimariDraw) | <sub> A fully automated Python script for plotting software based on Python. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariDraw?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] |
 | [KimariPlot](https://github.com/kimariyb/kimariPlot) | <sub> A fully automated Python script for plotting software developed in Python. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariPlot?style=flat-square&labelColor=black"/> | ![Python][Python]  ![Shell][Shell] |    
 | [pySubplot](https://github.com/kimariyb/py-subplots) | <sub> A  fully automated Python script for plotting multiple subplots. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariPlot?style=flat-square&labelColor=black"/> | ![Python][Python]  ![Shell][Shell] |                                                                           
-
+| [KYBNMR](https://github.com/kimariyb/kybnmr) | <sub> A scripting program for fully automated calculation of NMR. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kybnmr?style=flat-square&labelColor=black"/> | ![Go][Go]  ![Shell][Shell] |      
 
 
 
