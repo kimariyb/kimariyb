@@ -50,11 +50,8 @@
 | Title | Description | Stars | Technologies |
 |--|--|--|--|
 | [EasyShermo](https://github.com/kimariyb/easy-shermo) | <sub> A fully automated Python script for using Shermo developed by Kimariyb. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/easy-shermo?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] ![Go][Go]|
-| [KimariDraw](https://github.com/kimariyb/kimariDraw) | <sub> A fully automated Python script for plotting software based on Python. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariDraw?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] |
-| [KimariPlot](https://github.com/kimariyb/kimariPlot) | <sub> A fully automated Python script for plotting software developed in Python. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariPlot?style=flat-square&labelColor=black"/> | ![Python][Python]  ![Shell][Shell] |    
-| [pySubplot](https://github.com/kimariyb/py-subplots) | <sub> A  fully automated Python script for plotting multiple subplots. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kimariPlot?style=flat-square&labelColor=black"/> | ![Python][Python]  ![Shell][Shell] |                                                                           
-| [KYBNMR](https://github.com/kimariyb/kybnmr) | <sub> A scripting program for fully automated calculation of NMR. </sub>| <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/kybnmr?style=flat-square&labelColor=black"/> | ![Go][Go]  ![Shell][Shell] |      
-
+| [NMRProcess](https://github.com/kimariyb/nmr-process) | <sub> 用于处理 Oxford 小核磁仪的 FID 数据，直接输出 csv 文件
+ | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/nmr-process?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] |    
 
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/a41c0d762937e4ec3dddfa0c85945f515995811a.svg" />
