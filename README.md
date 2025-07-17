@@ -44,6 +44,7 @@
 [Python]:https://img.shields.io/badge/Python-black?style=flat-square&logo=python
 [Go]:https://img.shields.io/badge/Go-black?style=flat-square&logo=go
 [Shell]:https://img.shields.io/badge/Shell-black?style=flat-square&logo=shell
+[Torch]:https://img.shields.io/badge/Torch-black?style=flat-square&logo=pytorch
 
 ### 🖥️ Open-Source Projects &emsp; 
   
@@ -51,6 +52,7 @@
 |--|--|--|--|
 | [EasyShermo](https://github.com/kimariyb/easy-shermo) | <sub> A fully automated Python script for using Shermo developed by Kimariyb. </sub> | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/easy-shermo?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] ![Go][Go]|
 | [NMRProcess](https://github.com/kimariyb/nmr-process) | <sub> 用于处理 Oxford 小核磁仪的 FID 数据，直接输出 csv 文件 | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/nmr-process?style=flat-square&labelColor=black"/> | ![Python][Python] ![Shell][Shell] |    
+| [SabreDenoise](https://github.com/kimariyb/SABRE-Denoise) | <sub> 基于卷积神经网络框架 U-NET 的 19F-SABRE 超极化谱图降噪模块 | <img alt="Stars" src="https://img.shields.io/github/stars/kimariyb/SABRE-Denoise?style=flat-square&labelColor=black"/> | ![Python][Python] ![Torch][Torch] |  
 
 
 <img width="120%" src="https://repobeats.axiom.co/api/embed/a41c0d762937e4ec3dddfa0c85945f515995811a.svg" />
