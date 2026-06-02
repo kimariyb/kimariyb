@@ -31,15 +31,10 @@
 ## Hi, 👋  I'm <a href="https://ikuns.icu/" target="_blank">Ryan Hsiun (Kimariyb)</a> 
 
   ✨ My nickname is kimariyb.  I’m a Master’s graduate majoring in ***Radio Physics*** from **Xiamen University**.
+
   ✨ My research focuses on machine learning, deep learning, large language models covering natural language processing and multimodal learning.
 
   <!--my introduction end -->
-
-<div style="display: flex; flex-wrap: nowrap; justify-content: space-between;">
-<img style="flex: 1; max-width: 102%; height: 200px;" src="https://github-readme-stats.vercel.app/api?username=kimariyb&show_icons=true&rank_icon=github">
-<img style="flex: 1; max-width: 102%; height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimariyb&layout=donut">
-</div>
-
 
 [Python]:https://img.shields.io/badge/Python-black?style=flat-square&logo=python
 [Go]:https://img.shields.io/badge/Go-black?style=flat-square&logo=go
